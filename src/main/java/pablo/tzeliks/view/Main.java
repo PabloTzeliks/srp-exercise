@@ -11,11 +11,12 @@ import pablo.tzeliks.service.strategy.RegraFaixaBaixa;
 import pablo.tzeliks.service.strategy.RegraIsento;
 import pablo.tzeliks.view.helper.PrintHelper;
 
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 public class Main {
+
+    // Main simples apenas para testar funcionalidade de Strategy
 
     public static void main(String[] args) {
 
